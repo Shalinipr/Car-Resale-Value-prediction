@@ -1,7 +1,9 @@
-# Car-Resale-Value-prediction
-IBM-Project-20011-1659710833
-NAME   |ROLL NUMBER | DEPARTMENT
-SHALINI P | 130719106039 |  ECE
-PAVITHRA S |130719106025 | ECE
-NITHYANAGALAKSHMI M |130719106021 |ECE
-PRABHAKARAN U | 130719106026| ECE
++ #IBM-Project-20011-1659710833
++  Car-Resale-Value-prediction
++
+ |NAME                | ROLL NUMBER  |   DEPARTMENT  |   
++|-------------------:|:-----------__: |:-----------:|
++|SHALINI P           | 130719106039 |   ECE         |
++|PAVITHRA S          | 130719106025 |   ECE         |
++|NITHYANAGALAKSHMI M | 130719106021 |   ECE         |
++|PRABHAKARAN U       | 130719106026 |   ECE         |
